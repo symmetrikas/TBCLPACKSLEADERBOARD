@@ -11,58 +11,58 @@ const scale = 3;
  * @returns {Number}
  */
 export function score(rank, percent, minPercent) {
-    if (rank = 1) {
+    if (rank == 1) {
         return 200;
     }
-    if (rank = 2) {
+    if (rank == 2) {
         return 500;
     }
-    if (rank = 3) {
+    if (rank == 3) {
         return 350;
     }
-    if (rank = 4) {
+    if (rank == 4) {
         return 250;
     }
-    if (rank = 5) {
+    if (rank == 5) {
         return 650;
     }
-    if (rank = 6) {
+    if (rank == 6) {
         return 300;
     }
-    if (rank = 7) {
+    if (rank == 7) {
         return 550;
     }
-    if (rank = 8) {
+    if (rank == 8) {
         return 400;
     }
-    if (rank = 9) {
+    if (rank == 9) {
         return 150;
     }
-    if (rank = 10) {
+    if (rank == 10) {
         return 350;
     }
-    if (rank = 11) {
+    if (rank == 11) {
         return 300;
     }
-    if (rank = 12) {
+    if (rank == 12) {
         return 350;
     }
-    if (rank = 13) {
+    if (rank == 13) {
         return 500;
     }
-    if (rank = 14) {
+    if (rank == 14) {
         return 500;
     }
-    if (rank = 15) {
+    if (rank == 15) {
         return 750;
     }
-    if (rank = 16) {
+    if (rank == 16) {
         return 650;
     }
-    if (rank = 17) {
+    if (rank == 17) {
         return 450;
     }
-    if (rank = 18) {
+    if (rank == 18) {
         return 600;
     }
 }
