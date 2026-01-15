@@ -46,27 +46,35 @@
     if (rank = 12) {
         return 300;
     }
+    Hank Pack
     if (rank = 13) {
         return 350;
     }
+    Anatomy Pack
     if (rank = 14) {
         return 500;
     }
+    Hazbin Hotel
     if (rank = 15) {
         return 500;
     }
+    Hazbin Resort
     if (rank = 16) {
         return 750;
     }
+    Impossible Endings Pack
     if (rank = 17) {
         return 650;
     }
+    Finni Pack
     if (rank = 18) {
         return 450;
     }
+    Decoration Pack I
     if (rank = 19) {
         return 600;
     }
+    Decoration Pack II
     if (rank = 20) {
         return 1000;
     }
