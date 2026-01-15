@@ -42,34 +42,28 @@ export function score(rank, percent, minPercent) {
         return 350;
     }
     if (rank = 11) {
-        return 700;
-    }
-    if (rank = 12) {
         return 300;
     }
-    if (rank = 13) {
+    if (rank = 12) {
         return 350;
+    }
+    if (rank = 13) {
+        return 500;
     }
     if (rank = 14) {
         return 500;
     }
     if (rank = 15) {
-        return 500;
-    }
-    if (rank = 16) {
         return 750;
     }
-    if (rank = 17) {
+    if (rank = 16) {
         return 650;
     }
-    if (rank = 18) {
+    if (rank = 17) {
         return 450;
     }
-    if (rank = 19) {
+    if (rank = 18) {
         return 600;
-    }
-    if (rank = 20) {
-        return 1000;
     }
 }
 
