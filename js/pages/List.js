@@ -44,7 +44,7 @@ export default {
                     <ul class="stats">
                         <li>
                             <div class="type-title-sm">Points when completed</div>
-                            <p>{{ level.pp }}</p>
+                            <p>{{ level.score }}</p>
                         </li>
                         <li>
                             <div class="type-title-sm">ID</div>
