@@ -3,8 +3,9 @@
     "name": "Balls Pack",
     "author": "can't believe you found it",
     "creators": [],
-    "verifier":
     "percentToQualify": "100",
+    "verifier": "",
+    "pp": 400,
     "records": [
     ]
 }
