@@ -6,5 +6,15 @@
     "percentToQualify": "100",
     "verifier": "Rusty",
     "records": [
+        {
+            "user": "Sadisyourlife",
+            "hz": "240",
+            "percent": 100
+        },
+        {
+            "user": "finni1505",
+            "hz": "240",
+            "percent": 100
+        }
     ]
 }
