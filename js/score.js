@@ -27,6 +27,10 @@ export function score(rank, percent, minPercent) {
     if (rank == 4) {
         return 100;
     }
+    //TBCL'S Favorites Pack I
+    if (rank == 5) {
+        return 330;
+    }
 }
 
 export function round(num) {
