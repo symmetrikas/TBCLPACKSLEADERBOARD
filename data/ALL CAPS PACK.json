@@ -6,5 +6,11 @@
     "percentToQualify": "100",
     "verifier": "Symm.",
     "records": [
+        {
+            "user": "PuffiballGD",
+            "link": "https://youtu.be/E7hupEM9Cn0?si=hi9vk-ZiTOaROWBa",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
