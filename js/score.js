@@ -15,6 +15,10 @@ export function score(rank, percent, minPercent) {
     if (rank == 1) {
         return 125;
     }
+    //ALL CAPS PACK
+    if (rank == 2) {
+        return 100;
+    }
 }
 
 export function round(num) {
