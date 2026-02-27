@@ -19,8 +19,12 @@ export function score(rank, percent, minPercent) {
     if (rank == 2) {
         return 150;
     }
-    //ALL CAPS PACK
+        //CCC Levels Pack
     if (rank == 3) {
+        return 150;
+    }
+    //ALL CAPS PACK
+    if (rank == 4) {
         return 100;
     }
 }
