@@ -31,6 +31,10 @@ export function score(rank, percent, minPercent) {
     if (rank == 5) {
         return 330;
     }
+    //Kanye West Pack
+    if (rank == 6) {
+        return 500;
+    }
 }
 
 export function round(num) {
