@@ -35,6 +35,10 @@ export function score(rank, percent, minPercent) {
     if (rank == 6) {
         return 500;
     }
+    //Tyler, The Creator Pack
+    if (rank == 7) {
+        return 150;
+    }
 }
 
 export function round(num) {
